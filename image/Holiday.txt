@@ -6,6 +6,8 @@ Real Analysis (Jay Cummings)
 Data Analysis (Guofu/Jingyu)
 Optimization(PKU/GaTech)
 R in Finance (NYU/Imperial)
+Richard Evans Computational Modeling
+Big Data(Mota/Keerati)
 Behavioral Finance (AEA)
 Fintech (Warwick)
 Macro Finance(Imperial)

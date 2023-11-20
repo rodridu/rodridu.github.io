@@ -1,0 +1,15 @@
+ACCT611 Disclosure and Financial Market
+MSFE Math Bootcamp/ MF600/ EC400/ EC505
+Statistics (Lettau/Lochstoer)
+Asset Pricing(Mamaysky/Ai/Borovicka)
+Real Analysis (Jay Cummings)
+Data Analysis (Guofu/Jingyu)
+Optimization(PKU/GaTech)
+R in Finance (NYU/Imperial)
+Macro Finance(Imperial)
+ML(229)
+Seb Python Bootcamp
+Textual Analysis in Econ
+NLP beginner
+Portfolio (Eric/Pengfei/406)
+Fixed Income(405)

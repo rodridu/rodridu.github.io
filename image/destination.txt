@@ -4,3 +4,27 @@ Air France: Paris–Charles de Gaulle
 American Airlines: London, Cancún, Montego Bay, Providenciales, Punta Cana
 Avianca: Bogota
 Avianca El Salvador: San Salvador
+Azores Airlines	Ponta Delgada, Porto, Terceira, Funchal
+BermudAir: Bermuda
+Condor: Frankfurt
+Delta: Amsterdam, Cancun, Paris–Charles de Gaulle, Rome, Tel Aviv, (Seasonal) Aruba, Athens, Dublin, Edinburgh, Montego Bay, Myrtle Beach, Nassau, Providenciales, Punta Cana
+El Al:	Tel Aviv
+Emirates:	Dubai–International
+Etihad: Airways	Abu Dhabi
+Iberia:	Madrid
+Icelandair:	Reykjavík–Keflavík
+ITA Airways:	Rome–Fiumicino
+Japan Airlines:	Tokyo–Narita
+JetBlue: Amsterdam, Cancun, Grenada, London, Montegro Bay, Nassau, Paris, Punta Cana, Santiago de los Caballeros, Santo Domingo–Las Américas,
+KLM:	Amsterdam
+Korean Air:	Seoul–Incheon
+LATAM Brasil:	São Paulo–Guarulhos	(?)
+Level:	Barcelona	
+Lufthansa:	Frankfurt, Munich
+Play:	Reykjavík–Keflavík
+Porter Airlines:	Ottawa, Toronto–Billy Bishop
+Qatar Airways:	Doha
+Scandinavian Airlines:	Copenhagen
+Swiss International Air Lines:	Zurich
+TAP Air Portugal:	Lisbon
+Turkish Airlines:	Istanbul

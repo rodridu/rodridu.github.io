@@ -11,6 +11,7 @@ Big Data(Mota/Keerati)
 Behavioral Finance (AEA)
 Fintech (Warwick)
 Macro Finance(Imperial)
+Julia
 ML(229)
 Seb Python Bootcamp
 Textual Analysis in Econ

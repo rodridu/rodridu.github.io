@@ -4,7 +4,7 @@ Statistics (Lettau/Lochstoer)
 Asset Pricing(Mamaysky/Ai/Borovicka)
 Real Analysis (Jay Cummings)
 Data Analysis (Guofu/Jingyu)
-Optimization(PKU/GaTech)
+Optimization(PKU)
 R in Finance (NYU/Imperial)
 Richard Evans Computational Modeling
 Big Data(Mota/Keerati)

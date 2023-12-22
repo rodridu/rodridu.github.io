@@ -13,7 +13,7 @@ Fintech (Warwick)
 Macro Finance(Imperial)
 Julia
 ML(229)
-Seb Python Bootcamp
+Seb Python Bootcamp/ Data Structure review
 Textual Analysis in Econ
 NLP beginner
 Portfolio (Eric/Pengfei/406)
